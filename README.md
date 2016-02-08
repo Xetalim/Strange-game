@@ -1,1 +1,2 @@
 # Strange-game
+Hello world!
